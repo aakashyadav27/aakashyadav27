@@ -27,7 +27,7 @@ I have over **half a decade of experience** designing and delivering high-impact
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,langchain,fastapi,postgres,docker,kubernetes,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,postgres,docker,kubernetes,gcp,aws" />
 </div>
 
 <br/>

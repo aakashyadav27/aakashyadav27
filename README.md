@@ -37,7 +37,7 @@ I have over **half a decade of experience** designing and delivering high-impact
 <div align="center">
 
 <!-- Uses a high-contrast theme ensuring visibility in both light/dark modes -->
-[![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakashyadav27&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/aakashyadav27)
+[![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakashyadav27&show_icons=true&theme=radical&hide_border=true)](https://github.com/aakashyadav27)
 
 </div>
 <div align="center">

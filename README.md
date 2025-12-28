@@ -36,27 +36,6 @@ I have over **half a decade of experience** designing and delivering high-impact
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=aakashyadav27&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
-<br/>
-
-## 🌟 Featured Projects
-
-### [🤖 AI Code Review Automation](https://github.com/aakashyadav27/ai-code-review-automation)
-> **Agentic workflow for automated code quality assurance.**
-> An intelligent system that leverages LLMs to review pull requests, detect bugs, and suggest optimizations automatically.
->
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-> ![GenAI](https://img.shields.io/badge/GenAI-Enable?style=flat&color=9b59b6) 
-> ![Automation](https://img.shields.io/badge/Automation-Powered?style=flat&color=2ecc71)
-
-<br/>
-
 ## 📊 Activity
 
 </div>

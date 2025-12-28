@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=AI+%26+GenAI+Solutions;Pharma+Domain+Expert+(5%2B+Years);Automation+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=GenAI+Solutions+Architect;Machine+Learning+Engineer;Automation+Expert;Vibe+Coder" alt="Typing SVG" />
 
-<h3 align="center">Delivering AI Automation Solutions in Pharma</h3>
+<h3 align="center">Architecting Scalable AI & ML Systems</h3>
 
 </div>
 
@@ -15,12 +15,12 @@
 
 ## 🚀 About Me
 
-I have over **half a decade of experience** designing and delivering **GenAI and Automation solutions**, specifically within the **Pharma domain**. I specialize in building agents that solve complex workflow problems.
+I have over **half a decade of experience** designing and delivering high-impact **Machine Learning and GenAI automation solutions**. I specialize in building intelligent agents that solve complex, large-scale problems.
 
-- 🔭 Focusing on **Enterprise GenAI Agents & Automation**
-- 💊 **5+ Years** in Pharma Tech Solutions
+- 🔭 Architecting **Enterprise GenAI Agents**
+- 🧠 **ML Solutions** for Process Automation
 - 🤖 "Vibe Coding" Frontend / Deep Dive Backend
-- 🌱 Exploring **Multi-Agent Systems**
+- 🌱 Exploring **Multi-Agent Orchestration**
 
 <br/>
 

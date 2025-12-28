@@ -36,8 +36,8 @@ I have over **half a decade of experience** designing and delivering high-impact
 
 <div align="center">
 
-<!-- Uses a high-contrast theme ensuring visibility in both light/dark modes -->
-[![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakashyadav27&show_icons=true&theme=radical&hide_border=true)](https://github.com/aakashyadav27)
+<!-- Uses default theme which adapts to your system settings -->
+[![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakashyadav27&show_icons=true)](https://github.com/aakashyadav27)
 
 </div>
 <div align="center">
